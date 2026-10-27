@@ -1,4 +1,6 @@
+## Live Simulation
 
+[Click here to view and simulate this circuit on Wokwi](https://wokwi.com/projects/478925530453603329)
 # Adaptive Smart Street Lighting System
 
 An IoT-based street lighting project using ESP32, an LDR light sensor, and MQTT cloud messaging.
