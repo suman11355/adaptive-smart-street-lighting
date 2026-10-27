@@ -3,8 +3,8 @@
 [Click here to view and simulate this circuit on Wokwi](https://wokwi.com/projects/478928900547729409)
 # Adaptive Smart Street Lighting System
 <img width="955" height="633" alt="Screenshot 2026-10-28 003004" src="https://github.com/user-attachments/assets/97459fc7-4448-46ec-b4ab-387112799740" />
+<img width="960" height="624" alt="Screenshot 2026-10-28 002945" src="https://github.com/user-attachments/assets/27c04f5c-9c4a-4feb-8cde-3fff67818f81" />
 
-<img width="955" height="633" alt="image" src="https://github.com/user-attachments/assets/f146ff76-da94-48f2-8fc7-81eed73ec797" />
 
 
 An IoT-based street lighting project using ESP32, an LDR light sensor, and MQTT cloud messaging.
